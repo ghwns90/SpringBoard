@@ -8,6 +8,6 @@
 </head>
 <body>
    <h2>Home</h2>
-   <a href="/test">Test</a>
+   <a href="/test">Tes1t</a>
 </body>
 </html>
